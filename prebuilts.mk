@@ -13,4 +13,8 @@ PRODUCT_PACKAGES += \
     snapseed \
 	pep \
 	tube \
-	songtube
+	songtube \
+	heremaps \
+	oneplusgallery \
+	smooz \
+	dailer
