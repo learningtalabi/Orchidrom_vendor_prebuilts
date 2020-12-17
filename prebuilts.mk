@@ -1,20 +1,20 @@
 include $(call first-makefiles-under,$(LOCAL_PATH))
 
 PRODUCT_PACKAGES += \
-    notes \
+    dnotes \
     MagiskManager \
     Metro \
-    leafpic \
     taptap \ 
     recorder \
     material \
     Lawndesk \
     mnml \
     snapseed \
-	pep \
+	spike \
 	tube \
 	songtube \
 	heremaps \
-	oneplusgallery \
 	smooz \
-	dailer
+	galleryo \
+	musie \
+	gocam
