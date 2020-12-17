@@ -7,14 +7,11 @@ PRODUCT_PACKAGES += \
     taptap \ 
     recorder \
     material \
-    Lawndesk \
+    declutter \
+	aod \
     mnml \
     snapseed \
 	spike \
-	tube \
-	songtube \
-	heremaps \
 	smooz \
 	galleryo \
-	musie \
-	gocam
+	musie 
