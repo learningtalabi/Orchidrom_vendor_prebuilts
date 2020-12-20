@@ -8,10 +8,15 @@ PRODUCT_PACKAGES += \
     recorder \
     material \
     declutter \
-	aod \
+    aod \
     mnml \
     snapseed \
-	spike \
-	smooz \
-	galleryo \
-	musie 
+    spike \
+    smooz \
+    galleryo \
+    musie \ 
+    walls \
+    actionblocks \
+    olauncher \
+    calc \
+    gtasks
