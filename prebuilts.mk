@@ -11,8 +11,7 @@ PRODUCT_PACKAGES += \
     smooz \
     galleryo \ 
     walls \
-    actionblocks \
     olauncher \
     calc \
-    gtasks
+    gtasks \
 	twobird
