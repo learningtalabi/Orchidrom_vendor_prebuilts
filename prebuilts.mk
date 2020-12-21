@@ -8,6 +8,8 @@ PRODUCT_PACKAGES += \
     material \
     aod \
     mnml \
+	Maps \
+	Drive \
     smooz \
     galleryo \
     walls \
