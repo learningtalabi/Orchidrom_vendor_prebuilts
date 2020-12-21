@@ -8,9 +8,8 @@ PRODUCT_PACKAGES += \
     material \
     aod \
     mnml \
-	Maps \
-	Drive \
-    smooz \
+    Maps \
+    Drive \
     galleryo \
     walls \
     olauncher \
