@@ -8,9 +8,7 @@ PRODUCT_PACKAGES += \
     material \
     aod \
     mnml \
-    Maps \
-    Drive \
-    galleryo \
+    gallerymod \
     walls \
     olauncher \
     calc \
