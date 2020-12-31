@@ -8,9 +8,9 @@ PRODUCT_PACKAGES += \
     material \
     aod \
     mnml \
+	walls \
     gallerymod \
     walls \
     olauncher \
     calc \
-    gtasks \
     twobird
