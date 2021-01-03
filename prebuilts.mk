@@ -13,7 +13,6 @@ PRODUCT_PACKAGES += \
     walls \
     olauncher \
     calc \
-	kiwi \
-	fit \
+	Appwarden \
 	gsounds \
     twobird
