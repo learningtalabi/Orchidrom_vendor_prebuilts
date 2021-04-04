@@ -8,11 +8,10 @@ PRODUCT_PACKAGES += \
     material \
     aod \
     mnml \
-	walls \
+    walls \
     gallerymod \
     walls \
     olauncher \
     calc \
-	Appwarden \
-	gsounds \
-    twobird
+    AppWarden \
+    gsounds
