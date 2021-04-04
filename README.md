@@ -1,2 +1,2 @@
-# orchid_vendor_prebuilts
+Npsg/vendor/prebuilts
  full material prebuilts
