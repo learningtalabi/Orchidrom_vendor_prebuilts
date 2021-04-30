@@ -11,7 +11,6 @@ PRODUCT_PACKAGES += \
     walls \
     gallerymod \
     walls \
-    olauncher \
     calc \
     AppWarden \
     gsounds
